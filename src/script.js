@@ -3,7 +3,7 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import * as dat from 'lil-gui';
 
 THREE.ColorManagement.enabled = false;
-
+console.log('test');
 /**
  * Base
  */
